@@ -1,2 +1,8 @@
 # WeatherPredicter
- This simple website is going to predict the weather for a specific day in a given location based on historical weather
+Using a historical weather API, this simple web app would give you the average weather in a location given a specific date or date range. You can eventually analyze trends and weather changes over the years.
+
+Tech stack used:
+- React.JS
+- HTML/CSS
+- Node.JS
+- Weather API
